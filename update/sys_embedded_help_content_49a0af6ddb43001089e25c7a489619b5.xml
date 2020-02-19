@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Administering NeedIt Lists</h1>
+<p>As an Admin, you should be pretty familiar with using and customizing ServiceNow Lists.</p>
+<p>Reminders are needed from time-to-time, especially if you carry a role with immense responsibility, such as that of a System Administrator. </p>
+<p>If you happen to need a reminder, please read about lists <a title="here" href="https://docs.servicenow.com/search?q&#61;Lists" target="_blank" rel="noopener">here</a>.</p>
+<div class="related-links role-embedded_help_admin tm-element">
+<div class="relinfo">
+<div class="reltitle">Related information<br />
+<div><a title="Lists" href="https://docs.servicenow.com/search?q&#61;Lists" target="_blank" rel="noopener">Lists</a></div>
+<div><a title="Forms" href="https://docs.servicenow.com/search?q&#61;Forms" target="_blank" rel="noopener">Forms</a></div>
+<div><a title="Administer Views" href="https://docs.servicenow.com/search?q&#61;Administer&#43;views" target="_blank" rel="noopener">Administer Views</a></div>
+<div><a title="Form Designer" href="https://docs.servicenow.com/search?q&#61;Form&#43;designer">Form Designer</a></div>
+</div>
+</div>
+</div>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt List - Admin</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.admin" name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</role>
+        <role_order>10</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-18 22:19:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>49a0af6ddb43001089e25c7a489619b5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt List - Admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_49a0af6ddb43001089e25c7a489619b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-19 00:00:17</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=49a0af6ddb43001089e25c7a489619b5"/>
+</record_update>
